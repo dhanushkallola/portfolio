@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a760e5d-b376-46a4-ace3-1bc8c9cc1651" name="Changes" comment="1212">
-      <change afterPath="$PROJECT_DIR$/images/banner-images/banner-image-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner-images/banner-image-1.jpg" beforeDir="false" />
+    <list default="true" id="0a760e5d-b376-46a4-ace3-1bc8c9cc1651" name="Changes" comment="121342">
+      <change afterPath="$PROJECT_DIR$/Read Me First.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-images/banner-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner-images/banner-image-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner-images/profile-pic.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,11 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dhanush kallola\Documents\GitHub\portfolio\images\banner-images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="portfolio" />
@@ -80,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691468294574</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="121342">
+      <created>1691468739890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691468739890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="121342">
+      <created>1691468820404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691468820404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,17 +118,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ASA" />
     <MESSAGE value="1212" />
-    <option name="LAST_COMMIT_MESSAGE" value="1212" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="121342" />
+    <option name="LAST_COMMIT_MESSAGE" value="121342" />
   </component>
 </project>
